@@ -1,1 +1,95 @@
-
+<html>
+<head><title>College website</title>
+<style>
+body{
+backgroundimage:url("https://t3.ftcdn.net/jpg/03/44/51/18/360_F_344511862_PzlAnm9xsM87BlzbW
+0ziAqy7HkVIaCZq.jpg");
+background-size: cover;
+height: 50vh;
+}
+img{
+width:600px;
+margin-left:350px;
+}
+.Container{
+font-size:larger;
+font-family: 'Times New Roman';
+background-color: rgb(70, 91, 99);
+display: flex;
+color:azure;
+padding:17px;
+text-align: start;
+}
+span{
+margin-left:40px;
+}
+p,pre{
+margin-top: 80px;
+margin-left: 230px;
+font-size:medium;
+font-style: italic;
+font-family:Arial ;
+}
+h3{
+color: rebeccapurple;
+font-size: xx-large;
+font-style:italic ;
+font-family:fantasy;
+text-align: center;
+margin-top: 85px;
+text-decoration:underline;
+}
+.image{
+width: 490px;
+margin-left: 40px;
+margin-top: 100px;
+}
+.new{
+margin-left: 100px;
+margin-bottom:750px;
+}
+</style></head>
+<body>
+<img src="https://tagore-engg.ac.in/images/tagore-eng-logo.png">
+<div class="Container">
+<b><span>HOME</span>
+<span style="background-color:rgba(255, 0, 0, 0.664); padding:16px;
+padding-left:10px; padding-right: 10px; ">ADMISSIONS</span>
+<span>FACULTIES</span>
+<span>PLACEMENT</span>
+<span>CAREER</span>
+<span>COMMITTEE</span>
+<span>EXTRA CURRICULAR</span>
+<span>CONTACT</span></b>
+</div>
+<h3>ABOUT US</h3>
+<b><p><pre>
+Welcome to Tagore Engineering College. Ours is a community centered on
+our students’ success,
+providing them with exceptional experiences, and connections to
+successful careers..
+A diverse graduate student body benefits from classroom and other
+intellectual opportunities in robust programs.
+Together our faculty, graduate students, and undergraduate
+concentrators
+comprise a vibrant community of Engineering scholars at Tagore
+Engineering College.</pre></p></b>
+<img class="image"
+src="https://images.shiksha.com/mediadata/images/1555397828phpQQfSXg.jpeg">
+<b><pre><p class="new">
+OVERVIEW:
+The campus provides a positive and conducive environment for study
+with its lush green and peaceful atmosphere.
+TEC campus is spread over 45 acres of land and has separate blocks for
+engineering ,
+management and administration apart from individual state-of-the-art lab
+facilities
+for physics, chemistry, engineering mechanics,
+CSE, IT, ECE, EEE, CIVIL, MECH, AI&DS and Aeronautical departments.
+Library forms an important component of any educational institution.
+Our library is housed in a spacious building.
+Our institution encourages all students and staff members to make best
+use of the library.
+</p></pre></b>
+</body>
+</html>
